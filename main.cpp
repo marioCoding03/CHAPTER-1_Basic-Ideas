@@ -1,5 +1,5 @@
 //Beginning C++20 From Novice to Professional(Sixth Edition) EXERCISES
-//CHAPTER 1 - BASIC IDEAS
+//CHAPTER 1 - Basic Ideas
 
 //--------------------------------------------------------------------------------------------------------------------------------------------
 
